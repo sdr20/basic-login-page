@@ -11,7 +11,7 @@ pipeline {
                 echo 'Test..' 
             }
         }
-        stage('Job 1') {
+        stage('Job 3') {
             steps {
                 echo 'Deploy..' 
             }
